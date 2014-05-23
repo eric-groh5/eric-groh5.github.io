@@ -128,20 +128,21 @@ aside#sidebar p.repo-owner a {
   margin-bottom: 40px;
 }
 
-a.button {
-  width: 50px;
+ a.button1 {
+  width:50;
   height: 50px;
   line-height: 1.2;
   font-size: 23px;
   color: #fff;
   padding-left: 68px;
   padding-top: 22px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
-}
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+ }
 a.button1 small {
   display: block;
   font-size: 11px;
 }
+
 header a.button1 {
   position: absolute;
   right: 50px;
@@ -150,11 +151,21 @@ header a.button1 {
 }
 aside a.button1 {
   width: 138px;
-  padding-left: 64px;
+  padding-left: 0px;
   display:block;
   background: transparent url(../images/instagram_square-48) 0 0 no-repeat;
   margin-bottom: 20px;
   font-size: 21px;
+}
+a.button {
+  width: 50px;
+  height: 50px;
+  line-height: 1.2;
+  font-size: 23px;
+  color: #fff;
+  padding-left: 68px;
+  padding-top: 22px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
 }
 a.button small {
   display: block;
