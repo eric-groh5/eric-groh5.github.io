@@ -143,13 +143,13 @@ header a.button {
   position: absolute;
   right: 0;
   top: 0;
-  background: transparent url(../images/Leandog.jpg) 0 0 no-repeat;
+  background: transparent url(../images/Dog.png) 0 0 no-repeat;
 }
 aside a.button {
   width: 48x;
   padding-left: 0px;
   display: block;
-  background: transparent url(../images/Leandog.jpg) 0 0 no-repeat;
+  background: transparent url(../images/Dog.png) 0 0 no-repeat;
   margin-bottom: 20px;
   font-size: 21px;
 }
