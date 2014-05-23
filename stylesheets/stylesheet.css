@@ -146,13 +146,13 @@ header a.button {
   position: absolute;
   right: 0;
   top: 0;
-  background: transparent url(../images/twitter.png) 0 0 no-repeat;
+  background: transparent url(../images/twitter_follow_button.png) 0 0 no-repeat;
 }
 aside a.button {
   width: 138px;
   padding-left: 64px;
   display: block;
-  background: transparent url(../images/twitter.png) 0 0 no-repeat;
+  background: transparent url(../images/twitter_follow_button.png) 0 0 no-repeat;
   margin-bottom: 20px;
   font-size: 21px;
 }
@@ -458,7 +458,7 @@ footer a:hover {
     min-height: 0;
   }
   aside#sidebar a.button {
-    display: none;
+    display: 
   }
   #main-content h1:before,
   #main-content h2:before,
