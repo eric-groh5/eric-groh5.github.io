@@ -143,7 +143,7 @@ a.button1 small {
 
 header a.button1 {
   position: absolute
-  left: 50px;
+  left:0;
   top: 0;
   background: transparent url(../images/instagram_square-48.png) 0 0 no-repeat;
 }
