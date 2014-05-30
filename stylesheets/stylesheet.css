@@ -153,7 +153,25 @@ aside a.button {
   margin-bottom: 20px;
   font-size: 21px;
 }
-
+a.button1 {
+  width: 75px;
+  height: 75px;
+  line-height: 1.2;
+  font-size: 23px;
+  color: #fff;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+}
+a.button1 small {
+  display: block;
+  font-size: 11px;
+} 
+header a.button1 {
+  position: absolute;
+  right: 0;
+  top: 0;
+  background: transparent url(../images/twitter1.png) 0 0 no-repeat;
+}
+a
 code, pre {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: #222;
