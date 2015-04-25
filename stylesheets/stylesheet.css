@@ -38,7 +38,9 @@ li {
 header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
-  border-bottom: 1px dashed #FF0000;
+  border-bottom: 1px dashed #FF0000
+
+  .0.;
   padding: 20px 0;
   margin: 0 0 40px 0;
 }
@@ -151,7 +153,7 @@ pre {
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 10px;
   font-size: 14px;
-  color: #b5e853;
+  color: #FF0000;
   border-radius: 2px;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
